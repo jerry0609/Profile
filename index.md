@@ -45,7 +45,7 @@
 
 
     <h1>3 – Ideal Job </h1>
-    <img src="img/.PNG" alt="idealjob.PNG" width="800" height="800">
+    <img src="img/idealjob.PNG" alt="idealjob.PNG" width="800" height="800">
     <p> </p>
     <a
       href="https://www.seek.com.au/job/41089964?type=standout#searchRequestToken=63926a01-f280-423f-b77e-7d49069e4ac8">This
@@ -181,7 +181,6 @@
 
     
     <script src="" async defer></script>
-  </body>
-</html>
+
 
 
