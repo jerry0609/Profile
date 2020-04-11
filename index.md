@@ -149,7 +149,7 @@
       the project. We need to make sure these ones safe with human. Researching about the artificial intelligence sensor
       technology detecting the germs and remembering the ways robot travels to build a 3D map. Skin scan mode technology
       is important to research to make project come true. </p>
-    <p>Skill that we need to make this project possible:<p>
+    <p>Skills that we need to make this project possible:<p>
         <ul>
           <li>Programming software.</li>
           <li>Technology design.</li>
@@ -163,6 +163,7 @@
           their own packable “GermsSlayer “robot so we can avoid the germs. Furthermore, with this innovation that we
           use for these tiny robots so we can apply it for any public places such as hospitals, train stations,
           universities or airports etc.… to scan around and kill all the germs on the air. </p>
+          
 
         <h2>References<h2>
 
