@@ -1,10 +1,19 @@
-<!DOCTYPE html>
-<html>
-
-<body>
-
-  <h1>1 – Personal Information </h1>
-  <p>My first paragraph.My name is Minh Hau TRUONG. My student number is S3859157. My email address is
+<<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+  </head>
+  <body>
+    <h1>1 – Personal Information </h1>
+  <p>My name is Minh Hau TRUONG. My student number is S3859157. My email address is
     jerry.truong0609@yahoo.com. I’m from Vietnam and have lived 8 years in Australia. I married and got one boy who is 4
     months old. I finished the Advanced Diploma of Business Administration in 2012. Like almost the boys, when I was
     young that I used to play game a lot, spent almost my free time on my computer. Until now, I still play some games
@@ -39,7 +48,7 @@
 
 
     <h1>3 – Ideal Job </h1>
-    <img src="idealjob.PNG" alt="idealjob.PNG" width="800" height="800">
+    <img src="img/.PNG" alt="idealjob.PNG" width="800" height="800">
     <p> </p>
     <a
       href="https://www.seek.com.au/job/41089964?type=standout#searchRequestToken=63926a01-f280-423f-b77e-7d49069e4ac8">This
@@ -73,14 +82,14 @@
     <p>The following information is results of: </p>
     <ul>
       <li>My online Myers-Briggs test </li>
-      <img src="MBTI.PNG" alt="MBTI.PNG" width="600" height="600">
+      <img src="img/MBTI.PNG" alt="MBTI.PNG" width="600" height="600">
       <li>My online learning style test</li>
 
       <p> </p>
-      <img src="Learning test.PNG" alt="Learning test.PNG" width="600" height="600">
+      <img src="img/Learning test.PNG" alt="Learning test.PNG" width="600" height="600">
       <li>My online Big Five Personality test</li>
       <p> </p>
-      <img src="BFP test.PNG" alt="BFP test.PNG" width="800" height="600">
+      <img src="img/BFP test.PNG" alt="BFP test.PNG" width="800" height="600">
     </ul>
     <p>After using these tests, now I can see my personality clearly than before via results. I can understand myself
       much more. It’s good to know my strengths and weaknesses. For the strengths, I will try to improve my value cores
@@ -172,5 +181,9 @@
                 href="https://www.travelandleisure.com/travel-news/cleanse-bot-kills-germs-hotel-rooms">https://www.travelandleisure.com/travel-news/cleanse-bot-kills-germs-hotel-rooms</a>
               [Accessed 20 March 2020].</p>
 
-
+    
+    <script src="" async defer></script>
+  </body>
 </html>
+
+
